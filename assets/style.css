@@ -1,0 +1,27 @@
+h1 {
+    color: #333; /* Set text color to dark gray */
+    font-size: 24px; /* Adjust font size */
+    text-align: center; /* Center align the text */
+}
+
+.graph-container {
+    border: 1px solid #ccc; /* Add a border around the graph */
+    border-radius: 5px; /* Round the corners */
+    box-shadow: 2px 2px 5px #ccc; /* Add a shadow effect */
+}
+
+.dropdown {
+    width: 200px; /* Set a specific width */
+    background-color: #f9f9f9; /* Change background color */
+    border: 1px solid #999; /* Add a border */
+    border-radius: 3px; /* Round the corners */
+}
+
+.button {
+    background-color: #007bff; /* Set button background color */
+    color: #fff; /* Set text color to white */
+    padding: 8px 16px; /* Add padding */
+    border: none; /* Remove border */
+    border-radius: 3px; /* Round the corners */
+    cursor: pointer; /* Change cursor to pointer on hover */
+}
